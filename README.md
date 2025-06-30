@@ -20,5 +20,5 @@ Database ini dibuat untuk keperluan tugas UAS Basis Data Lanjut. Database **ruma
    atau import melalui antarmuka phpMyAdmin.
 
 ## Nama & NIM
-- **Nama:** [Reza_Firmansyah]
-- **NIM:** [23.02.0.0031]
+- **Nama:** Reza_Firmansyah
+- **NIM:** 23.02.0.0031
